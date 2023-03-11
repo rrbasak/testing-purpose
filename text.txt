@@ -1,0 +1,29 @@
+working directory-->stagging area-->local repo.-->remote repo
+
+
+working directory-->stagging area
+we can check status here git status 1.Track or 2.untrack
+
+
+TEST -->            git add -->     git commit-->git push
+
+1.change control
+2.version control (stagging area to local repo)
+
+
+
+1.git init
+2.git status
+3.git add file name or git add . (put everyThing in the stagging area)
+4.git diff (see what changes are in the stagging area)
+5.git restore file_name(apply before the stagging area means before writting git add .) staggig area-->git add   &&&  unstage --> git restore
+6.git commit -m "write something"
+7.git log-->how many commit done
+8.git log --oneline---> one show in one line
+9.git reset --soft HARD^---> local repo to stagging area
+10.git reset HARD^---> local repo to working directory
+11.git reset --hard HARD^---> delete all the changes we made
+version control
+    12.git checkout id_-->go to that id_
+    13.git checkout master--> return back to master version
+14.git show commit_id/git show/git show HEAD-->show the histroy of the commit    
