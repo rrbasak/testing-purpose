@@ -27,3 +27,4 @@ version control
     12.git checkout id_-->go to that id_
     13.git checkout master--> return back to master version
 14.git show commit_id/git show/git show HEAD-->show the histroy of the commit    
+15.git remote -v
