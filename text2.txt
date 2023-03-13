@@ -1,1 +1,2 @@
 Hey i am from feature1 branch
+I am the changes from master
