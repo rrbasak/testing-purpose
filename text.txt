@@ -29,3 +29,6 @@ version control
 14.git show commit_id/git show/git show HEAD-->show the histroy of the commit    
 15.git remote -v
 16.git config --global --unset-all remote.origin.proxy git push
+17.git branch
+18.git branch -r-->what is the remote repo
+19.git branch -a-->get locally and remote branch
