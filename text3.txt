@@ -1,1 +1,2 @@
 I am from feature2
+Hey I am just do merge conflict from github
