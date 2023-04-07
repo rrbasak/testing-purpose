@@ -22,7 +22,7 @@ TEST -->            git add -->     git commit-->git push
 8.git log --oneline---> one show in one line
 9.git reset --soft HARD^---> local repo to stagging area
 10.git reset HARD^---> local repo to working directory
-11.git reset --hard HARD^---> delete all the changes we made
+11.git reset --hard HARD^---> delete all the changes we have made
 version control
     12.git checkout id_-->go to that id_
     13.git checkout master--> return back to master version
