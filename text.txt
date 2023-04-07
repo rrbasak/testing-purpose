@@ -33,3 +33,9 @@ version control
 18.git branch -r-->what is the remote repo
 19.git branch -a-->get locally and remote branch
 20.git pull origin master (next time only git pull)
+
+
+21.git branch --> git branch features1--> do whatever the features-->git merge features1 -->git checkout master --> git branch -d features1(delete the branch)
+22.push branch from features1 -->git push -u origin features1
+23.git checkout -b feature1 -->(branch create and checkout at once)
+24.git clone http_url--> when you want to copy code from github to local machine
