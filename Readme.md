@@ -32,7 +32,11 @@ h1{
 
 ```
 
-
+```css
+h1{
+    color:red;
+}
+```
 
 1. ram
 2. sam

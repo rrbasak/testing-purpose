@@ -27,8 +27,9 @@ version control
     12.git checkout id_-->go to that id_
     13.git checkout master--> return back to master version
 14.git show commit_id/git show/git show HEAD-->show the histroy of the commit    
-15.git remote -v (wheather our local repo connected with remote repo if yes then return a url)
+15.git remote -v (wheather our local repo connected with remote repo if yes then return a url )
 16.git config --global --unset-all remote.origin.proxy git push
 17.git branch
 18.git branch -r-->what is the remote repo
 19.git branch -a-->get locally and remote branch
+20.git pull origin master (next time only git pull)
