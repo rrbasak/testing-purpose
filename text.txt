@@ -11,7 +11,7 @@ TEST -->            git add -->     git commit-->git push
 2.version control (stagging area to local repo)
 
 
-
+ 
 1.git init
 2.git status
 3.git add file name or git add . (put everyThing in the stagging area)
