@@ -5,7 +5,7 @@ working directory-->stagging area
 we can check status here git status 1.Track or 2.untrack
 
 
-TEST -->            git add -->     git commit-->git push
+TEST -->            git add -->     git commit   -->git push
 
 1.change control  (working directory to stagging area)
 2.version control (stagging area to local repo)
